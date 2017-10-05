@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # unfix the keyboard layout when using an apple keyboard
 # so that the tilde is still left of the 1 key. The
 # symbols will no longer match the markings on the key, 
