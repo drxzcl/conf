@@ -1,0 +1,4 @@
+#!/bin/bash
+stty -ixon
+alias ll='ls -alF'
+
