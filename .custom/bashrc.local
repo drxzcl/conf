@@ -1,4 +1,4 @@
 #!/bin/bash
-stty -ixon
+[[ $- == *i* ]] && stty -ixon
 alias ll='ls -alF'
 
