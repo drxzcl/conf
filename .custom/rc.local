@@ -7,3 +7,6 @@
 
 echo 0 > /sys/module/hid_apple/parameters/iso_layout
 echo 2 > /sys/module/hid_apple/parameters/fnmode
+
+exit 0
+
